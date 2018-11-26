@@ -1,4 +1,4 @@
-# PitchPerfect
+# PitchPerfect App Project 
 
 Pitch Perfect is the first project for Udacity ios nanodegree.
 
